@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+venv/
+
+# Bytecode cache
+__pycache__/
+
+# Ignore CSV or generated files
+*.csv
+
+# VS Code settings
+.vscode/
+
+# Jupyter or IPython cache
+.ipynb_checkpoints/
+
+!epl_2020_2023_summary.csv
